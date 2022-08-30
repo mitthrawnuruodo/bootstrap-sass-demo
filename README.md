@@ -2,4 +2,4 @@
 
 Use `npm i` to initialize project (install node_modules locally).
 
-Use `sass --watch scss/custom.scss:css/style.css` to make CSS.
+Use `sass --watch scss/custom.scss:css/style.css` to update CSS from SCSS.
